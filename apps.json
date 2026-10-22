@@ -1,0 +1,13 @@
+{
+  "judul": "Dashboard Aplikasi",
+  "apps": [
+    { "nama": "Gmail", "url": "https://mail.google.com", "kategori": "Komunikasi", "deskripsi": "Email" },
+    { "nama": "WhatsApp Web", "url": "https://web.whatsapp.com", "kategori": "Komunikasi", "deskripsi": "Chat" },
+    { "nama": "Google Drive", "url": "https://drive.google.com", "kategori": "Dokumen", "deskripsi": "Penyimpanan file" },
+    { "nama": "Google Docs", "url": "https://docs.google.com", "kategori": "Dokumen", "deskripsi": "Dokumen teks" },
+    { "nama": "Google Sheets", "url": "https://sheets.google.com", "kategori": "Dokumen", "deskripsi": "Spreadsheet" },
+    { "nama": "Google Calendar", "url": "https://calendar.google.com", "kategori": "Produktivitas", "deskripsi": "Jadwal" },
+    { "nama": "Google Maps", "url": "https://maps.google.com", "kategori": "Utilitas", "deskripsi": "Peta" },
+    { "nama": "Claude", "url": "https://claude.ai", "kategori": "Produktivitas", "deskripsi": "Asisten AI" }
+  ]
+}
